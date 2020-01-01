@@ -1,0 +1,16 @@
+D:\Projects\TecoSync\App\App\bin\Debug\App.exe.config
+D:\Projects\TecoSync\App\App\bin\Debug\App.exe
+D:\Projects\TecoSync\App\App\bin\Debug\App.pdb
+D:\Projects\TecoSync\App\App\obj\Debug\App.csprojAssemblyReference.cache
+D:\Projects\TecoSync\App\App\obj\Debug\App.Home.resources
+D:\Projects\TecoSync\App\App\obj\Debug\App.Properties.Resources.resources
+D:\Projects\TecoSync\App\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Projects\TecoSync\App\App\obj\Debug\App.exe
+D:\Projects\TecoSync\App\App\obj\Debug\App.pdb
+D:\Projects\TecoSync\App\App\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Projects\TecoSync\App\App\bin\Debug\WebSocket4Net.dll
+D:\Projects\TecoSync\App\App\obj\Debug\App.csproj.CopyComplete
+D:\Projects\TecoSync\App\App\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\TecoSync\App\App\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\TecoSync\App\App\obj\Debug\Interop.zkemkeeper.dll
+D:\Projects\TecoSync\App\App\obj\Debug\App.csproj.ResolveComReference.cache
